@@ -69,6 +69,7 @@
 
 标题  | 内容简介
 ---- | -----
+[Objective-C编码规范](https://github.com/QianKaiLu/Objective-C-Coding-Guidelines-In-Chinese) | 非常全的Objective-C编码规范中文版
 [Learn Objective C: The Path to iPhone Development](https://www.udemy.com/blog/learn-objective-c) | Udemy 写的文章, 说明了一些学习 Objective-C 的前提条件, Objective-C 的发展历史, 学习方法以及学习资源
 [I Want to Write iOS Apps. Where Do I Start?](http://lifehacker.com/i-want-to-write-ios-apps-where-do-i-start-1644802175) | 主要对 iOS 的开发环境进行了介绍, 并且涉及到了 Swift 的学习, iOS 上架的注意事项, iOS 的设计, 测试, 代码托管等, 讲解较为广泛, 同时也给出不少学习资源
 [How to become a professional iOS developer](http://roadfiresoftware.com/2014/04/how-to-become-a-professional-ios-developer) | 文章写的很有条理, 文中多次强调了版本控制系统的重要性, 主要内容是对学习 iOS 开发到就职, 给出了自己的建议
